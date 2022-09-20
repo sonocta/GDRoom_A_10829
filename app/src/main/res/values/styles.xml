@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemeOcta" parent="Theme.MaterialComponents.Light" >
+        <item name="color">#F9E4D4</item>
+        <item name="colorPrimary">#D67D3E</item>
+        <item name="colorPrimaryDark">#9C0F48</item>
+        <item name="colorAccent">#470D21</item>
+    </style>
+</resources>
